@@ -1,5 +1,5 @@
 {
-  "package-id" : "ans.fr.template",
+  "package-id" : "ans.fr.template.cda",
   "title" : "Base template for ANS IGs",
   "canonical" : "https://interop.esante.gouv.fr/ig/template",
   "introduction" : "This is the base template for ANS",
