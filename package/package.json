@@ -9,5 +9,6 @@
   "dependencies" : {
     "fhir2.base.template" : "current"
   },
+  "fhirVersions" : ["4.0.1"],
   "version" : "0.1.0"
 }
