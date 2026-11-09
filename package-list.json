@@ -1,5 +1,5 @@
 {
-  "package-id" : ans.cda.fr.template",
+  "package-id" : "ans.cda.fr.template",
   "title" : "ANS FHIR IG Base Template - CDA style",
   "canonical" : "https://interop.esante.gouv.fr/ig/template.cda",
   "introduction" : "This is the ANS base template for CDA-style IGs",
