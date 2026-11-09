@@ -1,5 +1,5 @@
 {
-  "name" : "ans.fr.template.cda",
+  "name" : "ans.cda.fr.template",
   "type" : "fhir.template",
   "license" : "CC0-1.0",
   "description" : "ANS FHIR IG Base Template - CDA style",
