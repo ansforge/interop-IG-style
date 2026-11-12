@@ -28,8 +28,7 @@
       "sequence" : "Publications",
       "fhirversion" : "4.0.1",
       "desc" : "Upgrade for dependency on fhir.base.template",
-      "date" : "2025-10-01",
-      "current" : true
+      "date" : "2025-10-01"
     },
     {
       "version" : "0.2.0",
