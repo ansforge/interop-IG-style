@@ -62,8 +62,7 @@ ul {
 margin : 10px;
 }
 
-.table td,
-.table th {
+.table td {
     overflow-wrap: anywhere;
 }
 
