@@ -61,3 +61,13 @@ ul {
 #content > .inner-wrapper, .container > .row > .inner-wrapper {
 margin : 10px;
 }
+
+.table td {
+    overflow-wrap: anywhere;
+}
+
+.table > tbody > tr > td.hierarchy,
+.table td.hierarchy {
+    padding: 0 4px;
+    line-height: normal;
+}
